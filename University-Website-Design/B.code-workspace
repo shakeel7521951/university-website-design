@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../B"
+		},
+		{
+			"path": "../College-website"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "University-Website-Design"
+	}
+}
